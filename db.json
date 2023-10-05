@@ -1,13 +1,6 @@
 {
   "produtos": [
     {
-      "id": 8,
-      "nome": "Processador",
-      "desc": "Processador Gamer",
-      "preco": 1000,
-      "img": "https://picsum.photos/200/300"
-    },
-    {
       "id": 9,
       "nome": "Placa de Vídeo",
       "desc": "Placa de Vídeo Gamer",
